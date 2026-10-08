@@ -27,10 +27,10 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Build the project
-        run: echo building............your project
+        run: echo building............
 
       - name: test the project
-        run:  testing............echo Hello, world!
+        run:  testing............
         
 
       # Runs a set of commands using the runners shell
